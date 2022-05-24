@@ -19,6 +19,7 @@ img {
       height: 420px;
       width: 200px;
       padding-top: 15px;
+      border-radius: 5px;
   }
 
   .test_image_and_result {
