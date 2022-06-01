@@ -39,9 +39,14 @@ img {
   }
   
   b {
-      color:darkblue;
+      color:purple;
   }
 
   h6 {
     font-size: 20px;  
+  }
+
+  span {
+    color:red;
+    font-weight: bold;
   }
